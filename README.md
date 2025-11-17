@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-h1{
-  font-color: RGB(113, 61, 42);
-}
 <html lang="en">
 <head>
    <title>SWEETS AND TREATS</title>
