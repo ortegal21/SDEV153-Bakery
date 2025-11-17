@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>Business - Your Daily News!</title>
+   <title>SWEETS AND TREATS</title>
    <link href="styles.css" rel="stylesheet" type="text/css">      
 </head>
 <body>
    <header>
-      <h1>Business News</h1>
+      <h1>SWEETS AND TREATS</h1>
       <nav>
          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/politics">Politics</a></li>
-            <li><a href="/bus">Business</a></li>
-            <li><a href="/sports">Sports</a></li>
+            <li><a href="/">Menu</a></li>
+            <li><a href="/Contact">Contact</a></li>
+            <li><a href="/Basket">Basket</a></li>
          </ul>
       </nav>
    </header>
    <main>
       <section>
-         <h2>Top Stories</h2>
+         <h2>Lorem ipsum dolor</h2>
          <section>
-            <h3>Bitcoin Tumbles</h3>
-            <p>The price of Bitcoin...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper!</p>
          </section>
          <section>
-            <h3>Economy May Be Recovering</h3>
-            <p>The Federal Reserve today...</p>
+            <ul>
+               <li><a href="/">SPECIALS</a></li>
+               <li><a href="/POPULARS">POPULARS</a></li>
+               <li><a href="/CUSTOMS">CUSTOMS</a></li>
+            </ul>
          </section>
       </section>
    </main>
