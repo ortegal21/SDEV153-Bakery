@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
    <title>SWEETS AND TREATS</title>
-   <link href="styles.css" rel="stylesheet" type="text/css">      
+   <link href="main.css" rel="stylesheet" type="text/css">      
 </head>
 <body>
    <header>
