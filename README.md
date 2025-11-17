@@ -37,8 +37,8 @@ p{
          <section>
             <ul>
                <li><a href="/">SPECIALS</a></li>
-               <li><a href="/POPULARS">POPULARS</a></li>
-               <li><a href="/CUSTOMS">CUSTOMS</a></li>
+               <li><a href="/POPULARS">POPULAR</a></li>
+               <li><a href="/CUSTOMS">CUSTOM</a></li>
             </ul>
          </section>
          <section>
