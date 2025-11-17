@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+<style>
+   h1{
+  font-color: RGB(113, 61, 42);
+}
+p{
+  font-color: RGB(157, 112, 87);
+}
+</style>
 <html lang="en">
 <head>
    <title>SWEETS AND TREATS</title>
