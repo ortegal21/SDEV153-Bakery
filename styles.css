@@ -1,7 +1,3 @@
-h1{
-    color: RGB(113, 61, 42);
-  }
-
-p{
-    color: RGB(157, 112, 87);
-  }
+h1 {
+    color: red;
+}
