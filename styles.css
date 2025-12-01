@@ -16,6 +16,10 @@
   color: white;
   font-family: Arial;
 }
+.imgMenu {
+  width: 200px;
+  height: 150px;
+}
 body{
   background-color: #f5f5ef;
 }
