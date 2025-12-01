@@ -1,7 +1,11 @@
-nav {
+nav{
   padding: 15px 40px;
 }
-
-h1 {
+nav ul{
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+h1{
     color: brown;
 }
