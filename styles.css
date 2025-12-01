@@ -7,5 +7,6 @@ nav ul{
   gap: 25px;
 }
 h1{
-    color: brown;
+  color: brown;
+  font-family: Times New Roman;
 }
