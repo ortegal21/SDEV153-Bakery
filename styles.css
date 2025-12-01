@@ -10,6 +10,9 @@
   text-decoration: none;
   font-size: 17px;
 }
+body{
+  background-color: yellow;
+}
 h1{
   color: brown;
   font-family: Arial;
