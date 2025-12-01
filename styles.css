@@ -1,5 +1,5 @@
 .topnav {
-  background-color: brown;
+  background-color: #713d2a;
   overflow: hidden;
 }
 .topnav a {
@@ -20,6 +20,6 @@ body{
   background-color: #f5f5ef;
 }
 h1{
-  color: brown;
+  color: #713d2a;
   font-family: Arial;
 }
