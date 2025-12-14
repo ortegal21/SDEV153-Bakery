@@ -37,6 +37,13 @@ h1{
   background-color: green;
   text-align: center;
 }
+.homeContent h1{
+  font-size: large;
+}
+.homeContent h2{
+  font-family: solway;
+  color: #9d7057;
+}
 .menuBackground{
   height: 600px;
   background-color: pink;
