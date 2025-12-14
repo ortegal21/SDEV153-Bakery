@@ -33,6 +33,7 @@ h1{
   height: 600px;
 }
 .homeContent{
+  margin: auto;
   background-color: green;
   text-align: center;
 }
