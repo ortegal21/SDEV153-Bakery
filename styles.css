@@ -26,12 +26,14 @@ h1{
   color: #713d2a;
   font-family: Arial;
 }
-.homeBackground{
-  background-image: url('background.jpg');
+.homeBackground img{
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
   opacity: 0.5;
+}
+.homeContent{
+  background-color: green;
 }
 .menuBackground{
   height: 600px;
