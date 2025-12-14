@@ -26,3 +26,9 @@ h1{
   color: #713d2a;
   font-family: Arial;
 }
+.homepage{
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
