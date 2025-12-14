@@ -33,6 +33,9 @@ h1{
   height: 600px;
   opacity: 0.5;
 }
+.homeContent{
+  background-color: green;
+}
 .homeContent h1{
   text-align: center;
 }
