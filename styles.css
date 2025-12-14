@@ -30,6 +30,5 @@ h1{
   background-image: url('background.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 1024px;
-  width: 960px;
+  background-size: cover;
 }
