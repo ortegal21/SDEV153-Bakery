@@ -33,3 +33,15 @@ h1{
   height: 600px;
   opacity: 0.5;
 }
+.menuBackground{
+  height: 600px;
+  background-color: pink;
+}
+.orderBackground{
+  height: 600px;
+  background-color: blue;
+}
+.aboutBackground{
+  height: 600px;
+  background-color: purple;
+}
