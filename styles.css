@@ -11,9 +11,8 @@
   font-size: 17px;
   font-family: Arial;
 }
-.topnav a.active {
-  color: white;
-  font-family: Arial;
+.topnav a.active img{
+  height:40px;
 }
 .imgMenu img {
   width: 200px;
