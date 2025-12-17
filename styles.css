@@ -10,6 +10,7 @@
   text-decoration: none;
   font-size: 17px;
   font-family: Arial;
+  font-weight: bold;
 }
 .topnav a.active img{
   height: 18px;
