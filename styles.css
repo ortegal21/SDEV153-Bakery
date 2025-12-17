@@ -39,7 +39,7 @@ h1{
   height: 700px;
 }
 .homeContent{
-  background-color: green;
+  background-color: #FFFCF0;
   text-align: center;
 }
 .homeContent h1{
@@ -51,15 +51,15 @@ h1{
 }
 .menuBackground{
   height: 600px;
-  background-color: pink;
+  background-color: #FFFCF0;
 }
 .orderBackground{
   height: 600px;
-  background-color: blue;
+  background-color: #FFFCF0;
 }
 .aboutBackground{
   height: 600px;
-  background-color: purple;
+  background-color: #FFFCF0;
 }
 footer{
   text-align: center;
