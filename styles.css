@@ -12,7 +12,7 @@
   font-family: Arial;
 }
 .topnav a.active img{
-  
+  height: 25px;
 }
 .imgMenu img {
   width: 200px;
