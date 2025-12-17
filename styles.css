@@ -3,7 +3,7 @@
   overflow: hidden;
 }
 .topnav a {
-  float: right;
+  float: left;
   color: #AA6C6C;
   text-align: center;
   padding: 14px 16px;
@@ -13,7 +13,7 @@
   font-weight: bold;
 }
 .topnav a.active img{
-  height: 18px;
+  height: 20px;
 }
 .imgMenu img {
   width: 200px;
