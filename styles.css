@@ -25,11 +25,8 @@ html, body{
   width: 200px;
   height: 150px;
 }
-body{
-  background-color: #f5f5ef;
-}
 h1{
-  color: #713d2a;
+  color: #AA6C6C;
   font-family: Arial;
 }
 .homeBackground {
@@ -47,7 +44,7 @@ h1{
 }
 .homeContent h2{
   font-family: solway;
-  color: #9d7057;
+  color: #AA6C6C;
 }
 .menuBackground{
   height: 600px;
