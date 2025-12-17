@@ -6,6 +6,7 @@ html, body{
 .topnav {
   background-color: #FFFCF0;
   overflow: hidden;
+  height: 40px;
 }
 .topnav a {
   justify-content: center;
