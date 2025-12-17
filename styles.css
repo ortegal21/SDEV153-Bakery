@@ -8,7 +8,7 @@ html, body{
   overflow: hidden;
 }
 .topnav a {
-  float: left;
+  justify-content: center;
   color: #AA6C6C;
   text-align: center;
   padding: 14px 16px;
