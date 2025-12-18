@@ -19,8 +19,8 @@ html, body{
   font-weight: bold;
 }
 .topnav a.active img{
-  height: 40px;
-  width: 150px;
+  height: auto;
+  width: 100%;
 }
 .imgMenu img {
   width: 200px;
