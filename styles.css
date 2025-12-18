@@ -46,6 +46,10 @@ h1{
   font-family: Arial;
   color: #AA6C6C;
 }
+.homeContent h3{
+  color: #2D080A;
+  font-family: Arial;
+}
 .menuBackground{
   height: 600px;
   background-color: #FFFCF0;
