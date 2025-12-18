@@ -54,6 +54,14 @@ h1{
   height: 600px;
   background-color: #FFFCF0;
 }
+.shopBackground{
+  height: 600px;
+  background-color: #FFFCF0;
+}
+table, th, td {
+  border: 1px solid #AA6C6C;
+  border-collapse: collapse;
+}
 .aboutBackground{
   height: 600px;
   background-color: #FFFCF0;
