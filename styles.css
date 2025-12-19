@@ -61,6 +61,14 @@ h1{
   height: 600px;
   background-color: #FFFCF0;
 }
+.error {
+  color: #c0392b;
+  font-size: 0.8rem;
+}
+
+.invalid {
+  border: 2px solid #c0392b;
+}
 .shopBackground{
   height: 600px;
   background-color: #FFFCF0;
