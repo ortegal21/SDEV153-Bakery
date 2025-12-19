@@ -4,7 +4,7 @@ html, body{
   background-color: #FFFCF0;
 }
 .topnav {
-  background-color: blue;
+  background-color: #FFFCF0;
   overflow: hidden;
   display: flex;
 }
@@ -13,7 +13,7 @@ html, body{
   padding: 0;
   height: 100px;
   width: 200px;
-  background-color: black;
+  background-color: #FFFCF0;
 }
 .logoContainer img {
   width: 100%;
