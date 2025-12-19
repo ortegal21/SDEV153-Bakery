@@ -55,29 +55,48 @@
             <h1>ORDER</h1>
          <section>
              <form>
-               <label for="fname">First Name:</label><br>
-               <input type="text" id="fname" name="fname"><br>
-               <label for="lname">Last Name:</label><br>
-               <input type="text" id="lname" name="lname"><br>
-               <p>
-                  <label for="item1">Item 1:</label>
-                  <input type="checkbox" name="item1" id="item1">
-               </p>
-               <p>
-                  <label for="item2">Item 2:</label>
-                  <input type="checkbox" name="item2" id="item2">
-               </p>
-               <p>
-                  <label for="item3">Item 3:</label>
-                  <input type="checkbox" name="item3" id="item3">
-               </p>
-               <label for="phone">Phone Number:</label><br>
-               <input type="text" id="phone" name="phone"><br>
-               <label for="address">Address:</label><br>
-               <input type="text" id="address" name="address"><br>
-               <p>
-                  <input type="submit" value="Submit">
-               </p>
+               <label>
+    Full Name *
+    <input type="text" id="name" />
+    <small class="error"></small>
+  </label>
+
+  <label>
+    Email *
+    <input type="email" id="email" />
+    <small class="error"></small>
+  </label>
+
+  <label>
+    Phone Number *
+    <input type="tel" id="phone" />
+    <small class="error"></small>
+  </label>
+
+  <label>
+    Product *
+    <select id="product">
+      <option value="">Select a product</option>
+      <option value="cake">Cake</option>
+      <option value="cupcakes">Cupcakes</option>
+      <option value="bread">Bread</option>
+    </select>
+    <small class="error"></small>
+  </label>
+
+  <label>
+    Quantity *
+    <input type="number" id="quantity" min="1" />
+    <small class="error"></small>
+  </label>
+
+  <label>
+    Pickup Date *
+    <input type="date" id="pickupDate" />
+    <small class="error"></small>
+  </label>
+
+  <button type="submit">Place Order</button>
             </form> 
          </section>
          </section>
