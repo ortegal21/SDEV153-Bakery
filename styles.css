@@ -20,6 +20,9 @@ html, body{
   height: 100%;
   object-fit: contain;
 }
+.navbarLinks{
+  text-align: center;
+}
 .topnav a {
   justify-content: center;
   color: #AA6C6C;
