@@ -84,6 +84,7 @@ h1{
   height: 600px;
   background-color: #FFFCF0;
   display: flex;
+  top-margin: 20px;
 }
 .menuText{
   background-color: orange;
