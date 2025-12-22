@@ -115,6 +115,7 @@ h1{
 .shopBackground{
   height: 600px;
   background-color: #FFFCF0;
+  align-items: center;
 }
 table, th, td {
   border: 1px solid #AA6C6C;
@@ -122,7 +123,6 @@ table, th, td {
 }
 table{
   width: 50%;
-  align-items: center;
   font-famliy: arial;
   font-size: 20px;
   color: #2D080A;
