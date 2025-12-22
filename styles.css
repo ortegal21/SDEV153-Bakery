@@ -143,10 +143,10 @@ input[type=submit] {
 .shopBackground{
   height: 600px;
   background-color: #FFFCF0;
-  align-items: center;
 }
 .shopContent{
   margin-left: 50px;
+  align-content: center;
 }
 table, th, td {
   border: 1px solid #AA6C6C;
