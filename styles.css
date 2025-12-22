@@ -87,15 +87,15 @@ h1{
   top-margin: 20px;
 }
 .menuText{
-  background-color: orange;
+  background-color: #FFFCF0;
   height: 400px;
   width: 300px;
+  margin-left: 50px;
 }
 .menuText p{
   font-size: 18px;
   font-family: arial;
   color: #2D080A;
-  margin-left: 50px;
 }
 .imgMenu{
   display: inline-block;
