@@ -90,6 +90,9 @@ h1{
   height: 400px;
   width: 300px;
 }
+.menuText p{
+  font-size: 18px;
+}
 .imgMenu{
   display: inline-block;
 }
