@@ -119,6 +119,10 @@ table, th, td {
   border: 1px solid #AA6C6C;
   border-collapse: collapse;
 }
+table{
+  width: 50%;
+  align-items: center;
+}
 .aboutBackground{
   height: 600px;
   background-color: #FFFCF0;
