@@ -104,8 +104,7 @@ h1{
 }
 .imgMenu{
   display: inline-block;
-  margin-left: 50px;
-  background-color: yellow;
+  margin: auto;
 }
 .orderBackground{
   height: 600px;
