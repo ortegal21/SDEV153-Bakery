@@ -92,6 +92,8 @@ h1{
 }
 .menuText p{
   font-size: 18px;
+  font-family: arial;
+  color: #2D080A;
 }
 .imgMenu{
   display: inline-block;
