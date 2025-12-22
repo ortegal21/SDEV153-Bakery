@@ -134,6 +134,10 @@ table{
 .aboutContent{
   margin-left: 50px;
 }
+.aboutContent h2, p{
+  font-family: arial;
+  color: #2D080A;
+}
 footer{
   text-align: center;
 }
