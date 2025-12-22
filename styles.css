@@ -122,6 +122,9 @@ table, th, td {
 table{
   width: 50%;
   align-items: center;
+  font-famliy: arial;
+  font-size: 20px;
+  color: #2D080A;
 }
 .aboutBackground{
   height: 600px;
