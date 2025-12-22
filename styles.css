@@ -122,6 +122,9 @@ h1{
   background-color: #FFFCF0;
   align-items: center;
 }
+.shopContent{
+  margin-left: 50px;
+}
 table, th, td {
   border: 1px solid #AA6C6C;
   border-collapse: collapse;
