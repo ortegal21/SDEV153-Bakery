@@ -131,6 +131,9 @@ table{
   height: 600px;
   background-color: #FFFCF0;
 }
+.aboutContent{
+  margin-left: 50px;
+}
 footer{
   text-align: center;
 }
