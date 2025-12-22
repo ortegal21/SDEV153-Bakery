@@ -89,6 +89,9 @@ h1{
   height: 400px;
   width: 300px;
 }
+.imgMenu{
+  display: inline-block;
+}
 .orderBackground{
   height: 600px;
   background-color: #FFFCF0;
