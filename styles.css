@@ -40,6 +40,11 @@ html, body{
   width: 200px;
   height: 150px;
 }
+.imgMenu p{
+  font-size: 18px;
+  font-family: arial;
+  color: #2D080A;
+}
 h1{
   color: #AA6C6C;
   font-family: Arial;
