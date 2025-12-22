@@ -106,6 +106,9 @@ h1{
   height: 600px;
   background-color: #FFFCF0;
 }
+.orderContent{
+  margin-left: 50px;
+}
 .error {
   color: #c0392b;
   font-size: 0.8rem;
