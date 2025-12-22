@@ -43,6 +43,7 @@ html, body{
 h1{
   color: #AA6C6C;
   font-family: Arial;
+  font-size: 40px;
 }
 .homeBackground {
   background-image: url("background.jpg");
